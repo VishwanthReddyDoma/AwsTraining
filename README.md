@@ -1,0 +1,2 @@
+# AwsTraining
+Demo project
